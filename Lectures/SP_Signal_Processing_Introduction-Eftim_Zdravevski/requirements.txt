@@ -1,9 +1,0 @@
-gwosc
-numpy
-scipy
-h5py
-matplotlib
-pandas
-cufflinks
-plotly
-gwpy
